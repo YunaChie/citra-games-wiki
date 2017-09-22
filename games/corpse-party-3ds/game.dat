@@ -1,0 +1,19 @@
+title = "Corpse Party 3DS"
+description = "\"A botched ritual traps a group of high school students in a haunted school. Can their wits keep them alive?\"\nCorpse Party is a Survival Horror game published by Team GrisGris, XSEED Games released on October 25, 2016 for the Nintendo 3DS."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000194200"
+region = "usa"
+release_date = "2016-10-25"
+
+[[testcases]]
+title = "0004000000194200"
+compatibility = "1"
+date = "2017-09-22"
+version = "HEAD-a7758b0"
+cpu = "Intel Core i7-6700HQ"
+gpu = "Intel HD Graphics 530"
+os = "Windows 10 14393"
+author = "YunaChie"
